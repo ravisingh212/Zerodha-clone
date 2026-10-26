@@ -26,7 +26,7 @@ function Login() {
 
     try {
       const response = await fetch(
-        "http://localhost:3002/api/auth/login",
+        "https://zerodha-clone-wlkn.onrender.com/api/auth/login",
         {
           method: "POST",
           headers: {
