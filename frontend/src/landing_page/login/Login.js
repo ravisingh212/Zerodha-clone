@@ -48,7 +48,8 @@ function Login() {
 
         localStorage.setItem("token", data.token);
 
-        window.location.href = "http://localhost:3001/";
+        window.location.href =
+  "https://zerodha-clone-dashboard-hvgn.onrender.com/";;
 
       setFormData({
         email: "",
