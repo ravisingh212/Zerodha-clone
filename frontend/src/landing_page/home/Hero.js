@@ -17,7 +17,7 @@ function Hero() {
         <button
           className="p-2 btn btn-primary fs-5 mb-5"
           style={{ width: "20%", margin: "0 auto" }}
-          onclick="window.location.href='https://zerodha-clone-wlkn.onrender.com/api/auth/signup'">
+          onclick="window.location.href='/signup'">
         
           Signup Now
         </button>
